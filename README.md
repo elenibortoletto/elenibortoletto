@@ -10,3 +10,4 @@ Atualmente focada em desenvolver habilidades full stack
   - SQLServer avançado
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=elenibortoletto)](https://github.com/elenibortoletto/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=elenibortoletto&show_icons=true)
