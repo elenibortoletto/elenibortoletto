@@ -1,5 +1,12 @@
 ## oi sou a Eleni 
 Desenvolvedor de software
+
+Plataforma .NET
+
+Desenvolvendo habilidades full stack
+
+
+
 <!--
 **elenibortoletto/elenibortoletto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
