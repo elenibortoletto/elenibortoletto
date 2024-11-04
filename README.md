@@ -1,7 +1,7 @@
 ## oi sou a Eleni 
 Desenvolvedor de software
 
-Plataforma .NET
+**Plataforma .NET**
 
 Desenvolvendo habilidades full stack
 
