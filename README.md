@@ -5,9 +5,9 @@ Plataforma .NET
 
 Desenvolvendo habilidades full stack
 
-Estudando
-Arquiterura de Software
-SQLServer avançado
+- Estudando
+- Arquiterura de Software
+- SQLServer avançado
 
 
 <!--
