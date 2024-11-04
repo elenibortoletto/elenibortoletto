@@ -3,7 +3,7 @@ Desenvolvedor de software
 
 **Plataforma .NET**
 
-Atualmente focada em habilidades full stack
+Atualmente focada em desenvolver habilidades full stack
 
 - Estudando
   - **Arquitetura de Software**
