@@ -6,7 +6,7 @@ Desenvolvedor de software
 Desenvolvendo habilidades full stack
 
 - Estudando
-  - Arquitetura de Software
+  - **Arquitetura de Software**
   - SQLServer avançado
 
 
