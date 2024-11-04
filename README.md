@@ -5,6 +5,10 @@ Plataforma .NET
 
 Desenvolvendo habilidades full stack
 
+Estudando
+Arquiterura de Software
+SQLServer avançado
+
 
 <!--
 **elenibortoletto/elenibortoletto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
